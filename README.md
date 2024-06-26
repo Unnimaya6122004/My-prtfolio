@@ -1,2 +1,2 @@
-# My-prtfolio
+# My-portfolio
 coursera
